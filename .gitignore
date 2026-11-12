@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Isca build / run artifacts
+build/
+*_work/
+experiment/*/run/
+restart/
+history/
+*.nc
+*.nc.?????
+*.o
+*.mod
+*.x
